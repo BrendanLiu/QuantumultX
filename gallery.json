@@ -1,8 +1,89 @@
 {
-  "name": "",
+  "name": "JD",
   "task": [
     {
-      "config": ""
+      "config": "5,10 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, enabled=true"
+    },
+    {
+      "config": "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bean_home.js, tag=领京豆额外奖励, enabled=true"
+    },
+    {
+      "config": "11 0 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=京东排行榜, enabled=true"
+    },
+    {
+      "config": "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, enabled=true"
+    },
+    {
+      "config": "11 0 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_woHome.js, tag=东东小窝, enabled=true"
+    },
+    {
+      "config": "15 */2 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy.js, tag=京东宠汪汪, enabled=true"
+    },
+    {
+      "config": "1 0,8,12,16 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_reward.js, tag=宠汪汪积分兑换奖品, enabled=true"
+    },
+    {
+      "config": "0 0 */2 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_feedPets.js, tag=宠汪汪喂食, enabled=true"
+    },
+    {
+      "config": "0 0,6 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_steal.js, tag=宠汪汪偷好友积分与狗粮, enabled=true"
+    },
+    {
+      "config": "1 7-23 * * * https://raw.githubusercontent.com/BrendanLiu/QuantumultX/main/Scripts/jd_plantBean.js, tag=种豆得豆, enabled=true"
+    },
+    {
+      "config": "10 */3 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_moneyTree.js, tag=京东摇钱树, enabled=true"
+    },
+    {
+      "config": "8 */3 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_speed.js, tag=京东天天加速, enabled=true"
+    },
+    {
+      "config": "1 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_shop.js, tag=进店领豆, enabled=true"
+    },
+    {
+      "config": "9 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_redPacket.js, tag=京东全民开红包, enabled=true"
+    },
+    {
+      "config": "11 1-23/2 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_superMarket.js, tag=京小超, enabled=true"
+    },
+    {
+      "config": "20 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_blueCoin.js, tag=京小超领蓝币(收小费), enabled=false"
+    },
+    {
+      "config": "5 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_club_lottery.js, tag=摇京豆, enabled=true"
+    },
+    {
+      "config": "15 10 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_run.js, tag=宠汪汪邀请助力与赛跑助力, enabled=true"
+    },
+    {
+      "config": "55 23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unsubscribe.js, tag=取关京东店铺商品, enabled=true"
+    },
+    {
+      "config": "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_car.js, tag=京东汽车, enabled=true"
+    },
+    {
+      "config": "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_digital_floor.js, tag=数码加购京豆, enabled=true"
+    },
+    {
+      "config": "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_ds.js, tag=京东代属, enabled=true"
+    },
+    {
+      "config": "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_health.js, tag=健康抽奖机, enabled=true"
+    },
+    {
+      "config": "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_kd.js, tag=京东快递签到, enabled=true"
+    },
+    {
+      "config": "0 0,9,11,13,15,17,19,20,21,23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live_redrain.js, tag=直播红包雨, enabled=true"
+    },
+    {
+      "config": "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_ms_redrain.js, tag=秒杀红包雨, enabled=true"
+    },
+    {
+      "config": "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_split.js, tag=年终奖, enabled=true"
+    },
+    {
+      "config": "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_syj.js, tag=十元街, enabled=true"
     }
   ],
   "description": "https://github.com/BrendanLiu/QuantumultX/"
