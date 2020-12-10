@@ -84,6 +84,12 @@
     },
     {
       "config": "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_syj.js, tag=十元街, enabled=true"
+    },
+    {
+      "config": "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_apple_live.js, tag=苹果抽奖机, enabled=true"
+    },
+    {
+      "config": "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pubg.js, tag=PUBG, enabled=true"
     }
   ],
   "description": "https://github.com/BrendanLiu/QuantumultX/"
