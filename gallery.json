@@ -62,9 +62,6 @@
       "config": "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_car.js, tag=京东汽车, enabled=true"
     },
     {
-      "config": "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_digital_floor.js, tag=数码加购京豆, enabled=true"
-    },
-    {
       "config": "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_ds.js, tag=京东代属, enabled=true"
     },
     {
@@ -80,16 +77,10 @@
       "config": "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_ms_redrain.js, tag=秒杀红包雨, enabled=true"
     },
     {
-      "config": "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_split.js, tag=年终奖, enabled=true"
+      "config": "10 9 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_watch.js, tag=京东看一看, enabled=true"
     },
     {
       "config": "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_syj.js, tag=十元街, enabled=true"
-    },
-    {
-      "config": "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_apple_live.js, tag=苹果抽奖机, enabled=true"
-    },
-    {
-      "config": "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pubg.js, tag=PUBG, enabled=true"
     },
     {
       "config": "10-20/5 12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live.js, tag=京东直播, enabled=true"
